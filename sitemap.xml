@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://skytyun.vercel.app/personal/about/index.html</loc>
+    
+    <lastmod>2023-04-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://skytyun.vercel.app/posts/2013454d.html</loc>
     
     <lastmod>2023-04-02</lastmod>
@@ -65,15 +74,6 @@
   </url>
   
   <url>
-    <loc>https://skytyun.vercel.app/personal/about/index.html</loc>
-    
-    <lastmod>2023-04-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://skytyun.vercel.app/site/time/index.html</loc>
     
     <lastmod>2023-04-02</lastmod>
@@ -101,25 +101,7 @@
   </url>
   
   <url>
-    <loc>https://skytyun.vercel.app/personal/bb/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://skytyun.vercel.app/box/animation/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://skytyun.vercel.app/box/gallery/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -137,7 +119,43 @@
   </url>
   
   <url>
+    <loc>https://skytyun.vercel.app/box/gallery/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://skytyun.vercel.app/personal/bb/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://skytyun.vercel.app/personal/love/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://skytyun.vercel.app/life/music/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://skytyun.vercel.app/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -164,25 +182,7 @@
   </url>
   
   <url>
-    <loc>https://skytyun.vercel.app/life/music/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://skytyun.vercel.app/life/movies/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://skytyun.vercel.app/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -225,14 +225,14 @@
 
   
   <url>
-    <loc>https://skytyun.vercel.app/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/</loc>
+    <loc>https://skytyun.vercel.app/categories/%E9%AD%94%E6%94%B9%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://skytyun.vercel.app/categories/%E9%AD%94%E6%94%B9%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://skytyun.vercel.app/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -246,14 +246,14 @@
   </url>
   
   <url>
-    <loc>https://skytyun.vercel.app/categories/%E7%AE%97%E6%B3%95/</loc>
+    <loc>https://skytyun.vercel.app/categories/Markdown%E8%AF%AD%E6%B3%95%E4%B8%8E%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
     <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://skytyun.vercel.app/categories/Markdown%E8%AF%AD%E6%B3%95%E4%B8%8E%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
+    <loc>https://skytyun.vercel.app/categories/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
