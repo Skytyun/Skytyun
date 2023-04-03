@@ -3408,7 +3408,7 @@ function createWinbox() {
 <h3>1. 二次元</h3>
 <details class="folding-tag" cyan><summary> 查看二次元背景 </summary>
               <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://lskypro.acozycotage.net/Fomalhaut/img/home_bg.webp)" class="imgbox" onclick="changeBg('url(https://lskypro.acozycotage.net/Fomalhaut/img/home_bg.webp)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://tuchuang.voooe.cn/images/2023/04/02/_202304021735513.jpg)" class="imgbox" onclick="changeBg('url(https://lskypro.acozycotage.net/Fomalhaut/img/home_bg.webp)')"></a></div>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://lskypro.acozycotage.net/Fomalhaut/img/home_bg.webp)" class="imgbox" onclick="changeBg('url(https://lskypro.acozycotage.net/Fomalhaut/img/home_bg.webp)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://tuchuang.voooe.cn/images/2023/04/03/_2023040315104510.jpg)" class="imgbox" onclick="changeBg('url(https://tuchuang.voooe.cn/images/2023/04/03/_2023040315104510.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://tuchuang.voooe.cn/images/2023/04/03/wallhaven-d63qqj.png)" class="imgbox" onclick="changeBg('url(https://tuchuang.voooe.cn/images/2023/04/03/wallhaven-d63qqj.png)')"></a></div>
               </div>
             </details>
 
@@ -3417,7 +3417,7 @@ function createWinbox() {
 
 <details class="folding-tag" cyan><summary> 查看风景背景 </summary>
               <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://lskypro.acozycotage.net/Fomalhaut/img/fj1.webp)" class="imgbox" onclick="changeBg('url(https://lskypro.acozycotage.net/Fomalhaut/img/fj1.webp)')"></a></div>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://lskypro.acozycotage.net/Fomalhaut/img/fj1.webp)" class="imgbox" onclick="changeBg('url(https://lskypro.acozycotage.net/Fomalhaut/img/fj1.webp)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://tuchuang.voooe.cn/images/2023/04/03/wallhaven-9dzerk.jpg)" class="imgbox" onclick="changeBg('url(https://tuchuang.voooe.cn/images/2023/04/03/wallhaven-9dzerk.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://tuchuang.voooe.cn/images/2023/04/03/wallhaven-85ezlj.jpg)" class="imgbox" onclick="changeBg('url(https://tuchuang.voooe.cn/images/2023/04/03/wallhaven-85ezlj.jpg)')"></a></div>
               </div>
             </details>
 
@@ -3445,10 +3445,11 @@ function createWinbox() {
             </details>
 
 
+
 <h3>6. 适配手机</h3>
 <details class="folding-tag" cyan><summary> 查看适配手机的背景 </summary>
               <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://lskypro.acozycotage.net/Fomalhaut/img/mb4.webp)" class="pimgbox" onclick="changeBg('url(https://lskypro.acozycotage.net/Fomalhaut/img/mb4.webp)')"></a></div>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://tuchuang.voooe.cn/images/2023/04/03/wallhaven-zyzkog.jpg)" class="pimgbox" onclick="changeBg('url(https://tuchuang.voooe.cn/images/2023/04/03/wallhaven-zyzkog.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://tuchuang.voooe.cn/images/2023/04/03/wallhaven-6dm787.png)" class="pimgbox" onclick="changeBg('url(https://tuchuang.voooe.cn/images/2023/04/03/wallhaven-6dm787.png)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://tuchuang.voooe.cn/images/2023/04/03/_2023040314520910.jpg)" class="pimgbox" onclick="changeBg('url(https://tuchuang.voooe.cn/images/2023/04/03/_2023040314520910.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://tuchuang.voooe.cn/images/2023/04/03/_202304031452097.jpg)" class="pimgbox" onclick="changeBg('url(https://tuchuang.voooe.cn/images/2023/04/03/_202304031452097.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://tuchuang.voooe.cn/images/2023/04/03/_202304031452096.jpg)" class="pimgbox" onclick="changeBg('url(https://tuchuang.voooe.cn/images/2023/04/03/_202304031452096.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://tuchuang.voooe.cn/images/2023/04/03/_202304031452095.jpg)" class="pimgbox" onclick="changeBg('url(https://tuchuang.voooe.cn/images/2023/04/03/_202304031452095.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://tuchuang.voooe.cn/images/2023/04/03/_202304031452094.jpg)" class="pimgbox" onclick="changeBg('url(https://tuchuang.voooe.cn/images/2023/04/03/_202304031452094.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://tuchuang.voooe.cn/images/2023/04/03/_202304031452093.jpg)" class="pimgbox" onclick="changeBg('url(https://tuchuang.voooe.cn/images/2023/04/03/_202304031452093.jpg)')"></a></div>
               </div>
             </details>
 
