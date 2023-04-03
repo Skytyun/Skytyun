@@ -92,6 +92,24 @@
   </url>
   
   <url>
+    <loc>https://skytyun.vercel.app/personal/bb/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://skytyun.vercel.app/box/gallery/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://skytyun.vercel.app/tags/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -110,34 +128,7 @@
   </url>
   
   <url>
-    <loc>https://skytyun.vercel.app/life/movies/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://skytyun.vercel.app/box/gallery/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://skytyun.vercel.app/box/nav/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://skytyun.vercel.app/life/music/index.html</loc>
+    <loc>https://skytyun.vercel.app/personal/love/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -155,7 +146,7 @@
   </url>
   
   <url>
-    <loc>https://skytyun.vercel.app/personal/love/index.html</loc>
+    <loc>https://skytyun.vercel.app/life/movies/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -164,16 +155,7 @@
   </url>
   
   <url>
-    <loc>https://skytyun.vercel.app/personal/bb/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://skytyun.vercel.app/social/fcircle/index.html</loc>
+    <loc>https://skytyun.vercel.app/life/music/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -183,6 +165,24 @@
   
   <url>
     <loc>https://skytyun.vercel.app/site/census/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://skytyun.vercel.app/box/nav/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://skytyun.vercel.app/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -246,6 +246,13 @@
   </url>
   
   <url>
+    <loc>https://skytyun.vercel.app/categories/%E5%9D%A4%E5%9D%A4/</loc>
+    <lastmod>2023-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://skytyun.vercel.app/categories/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2023-04-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -254,13 +261,6 @@
   
   <url>
     <loc>https://skytyun.vercel.app/categories/Java%E5%9F%BA%E7%A1%80/</loc>
-    <lastmod>2023-04-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://skytyun.vercel.app/categories/%E5%9D%A4%E5%9D%A4/</loc>
     <lastmod>2023-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
