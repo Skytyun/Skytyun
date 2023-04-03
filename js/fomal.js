@@ -1322,11 +1322,11 @@ var titleTime;
 document.addEventListener('visibilitychange', function () {
   if (document.hidden) {
     //离开当前页面时标签显示内容
-    document.title = '👀跑哪里去了~';
+    document.title = '👀诶，人呢~';
     clearTimeout(titleTime);
   } else {
     //返回当前页面时标签显示内容
-    document.title = '🐖抓到你啦～';
+    document.title = '🐖被我抓到了吧～';
     //两秒后变回正常标题
     titleTime = setTimeout(function () {
       document.title = OriginTitile;
@@ -3178,7 +3178,7 @@ if (localStorage.getItem("blogbg") != undefined) {
     --default-bg: url(https://tuchuang.voooe.cn/images/2023/04/01/_20221121163939.png);
     --darkmode-bg:url(https://tuchuang.voooe.cn/images/2023/04/01/_202303292330101.jpg);
     --mobileday-bg: url(https://tuchuang.voooe.cn/images/2023/04/02/_202304021735511.jpg);
-    --mobilenight-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/mb8.webp);
+    --mobilenight-bg: url(https://tuchuang.voooe.cn/images/2023/04/02/_20230402174418.jpg);
   }`;
 }
 // 切换背景主函数
@@ -3443,7 +3443,6 @@ function createWinbox() {
               <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" class="box" style="background: #ecb1b1" onclick="changeBg('#ecb1b1')"></a> <a href="javascript:;" rel="noopener external nofollow" class="box" style="background: #d3ebac" onclick="changeBg('#d3ebac')"></a> <a href="javascript:;" rel="noopener external nofollow" class="box" style="background: #ace9ce" onclick="changeBg('#ace9ce')"></a><a href="javascript:;" rel="noopener external nofollow" class="box" style="background: #c1ebea" onclick="changeBg('#c1ebea')"></a> <a href="javascript:;" rel="noopener external nofollow" class="box" style="background: #dee7f1" onclick="changeBg('#dee7f1')"></a> <a href="javascript:;" rel="noopener external nofollow" class="box" style="background: #e9e3f2" onclick="changeBg('#e9e3f2')"></a> <a href="javascript:;" rel="noopener external nofollow" class="box" style="background: #f7eff5" onclick="changeBg('#f7eff5')"></a>  <input type="color" id="define_colors" href="javascript:;" rel="noopener external nofollow" class="box" autocomplete="on" value="${defineColor}" oninput="changeBgColor()"></input></div>
               </div>
             </details>
-
 
 
 <h3>6. 适配手机</h3>
