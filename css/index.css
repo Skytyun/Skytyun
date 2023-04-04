@@ -8220,12 +8220,18 @@ a:hover {
   z-index: 1919810;
 }
 [data-theme="light"] #fps {
+  position: fixed;
+  top: 20px;
+  left: 20px;
   background-color: rgba(255, 255, 255, 0.85);
   backdrop-filter: var(--backdrop-filter);
   padding: 4px;
   border-radius: 4px;
 }
 [data-theme="dark"] #fps {
+  position: fixed;
+  top: 20px;
+  left: 20px;
   background-color: rgba(0, 0, 0, 0.72);
   backdrop-filter: var(--backdrop-filter);
   padding: 4px;
