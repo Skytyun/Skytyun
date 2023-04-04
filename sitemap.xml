@@ -119,43 +119,7 @@
   </url>
   
   <url>
-    <loc>https://skytyun.vercel.app/life/games/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://skytyun.vercel.app/life/movies/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://skytyun.vercel.app/box/gallery/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://skytyun.vercel.app/social/fcircle/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://skytyun.vercel.app/site/census/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -173,7 +137,25 @@
   </url>
   
   <url>
+    <loc>https://skytyun.vercel.app/box/nav/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://skytyun.vercel.app/personal/bb/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://skytyun.vercel.app/site/census/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -191,7 +173,25 @@
   </url>
   
   <url>
-    <loc>https://skytyun.vercel.app/box/nav/index.html</loc>
+    <loc>https://skytyun.vercel.app/life/games/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://skytyun.vercel.app/social/fcircle/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://skytyun.vercel.app/life/movies/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
