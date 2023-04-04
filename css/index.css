@@ -8221,8 +8221,8 @@ a:hover {
 }
 [data-theme="light"] #fps {
   position: fixed;
-  top: 20px;
-  left: 20px;
+  top: 4px;
+  left: 4px;
   background-color: rgba(255, 255, 255, 0.85);
   backdrop-filter: var(--backdrop-filter);
   padding: 4px;
@@ -8230,8 +8230,8 @@ a:hover {
 }
 [data-theme="dark"] #fps {
   position: fixed;
-  top: 20px;
-  left: 20px;
+  top: 4px;
+  left: 4px;
   background-color: rgba(0, 0, 0, 0.72);
   backdrop-filter: var(--backdrop-filter);
   padding: 4px;
