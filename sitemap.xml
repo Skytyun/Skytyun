@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://skytyun.top/personal/love/index.html</loc>
+    
+    <lastmod>2023-04-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://skytyun.top/site/time/index.html</loc>
     
     <lastmod>2023-04-04</lastmod>
@@ -74,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://skytyun.top/posts/b9473940.html</loc>
+    <loc>https://skytyun.top/posts/b3d7b7de.html</loc>
     
     <lastmod>2023-04-02</lastmod>
     
@@ -92,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://skytyun.top/posts/b3d7b7de.html</loc>
+    <loc>https://skytyun.top/posts/61d7c041.html</loc>
     
     <lastmod>2023-04-02</lastmod>
     
@@ -101,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://skytyun.top/posts/61d7c041.html</loc>
+    <loc>https://skytyun.top/posts/b9473940.html</loc>
     
     <lastmod>2023-04-02</lastmod>
     
@@ -119,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://skytyun.top/tags/index.html</loc>
+    <loc>https://skytyun.top/box/gallery/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -137,7 +146,7 @@
   </url>
   
   <url>
-    <loc>https://skytyun.top/box/gallery/index.html</loc>
+    <loc>https://skytyun.top/tags/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -147,33 +156,6 @@
   
   <url>
     <loc>https://skytyun.top/box/nav/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://skytyun.top/personal/love/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://skytyun.top/personal/bb/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://skytyun.top/life/movies/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -192,6 +174,24 @@
   
   <url>
     <loc>https://skytyun.top/social/fcircle/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://skytyun.top/life/movies/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://skytyun.top/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -255,7 +255,7 @@
   </url>
   
   <url>
-    <loc>https://skytyun.top/categories/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://skytyun.top/categories/Java%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2023-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -269,7 +269,7 @@
   </url>
   
   <url>
-    <loc>https://skytyun.top/categories/Java%E5%9F%BA%E7%A1%80/</loc>
+    <loc>https://skytyun.top/categories/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2023-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
