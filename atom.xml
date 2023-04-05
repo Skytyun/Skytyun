@@ -59,48 +59,6 @@
   </entry>
   
   <entry>
-    <title>第七篇</title>
-    <link href="https://skytyun.top/posts/61d7c041.html"/>
-    <id>https://skytyun.top/posts/61d7c041.html</id>
-    <published>2023-04-01T10:19:03.000Z</published>
-    <updated>2023-04-02T14:00:00.000Z</updated>
-    
-    
-    <summary type="html">我爱奥利奥饼干碎</summary>
-    
-    
-    
-    <category term="美食" scheme="https://skytyun.top/categories/%E7%BE%8E%E9%A3%9F/"/>
-    
-    
-    <category term="Markdown" scheme="https://skytyun.top/tags/Markdown/"/>
-    
-    <category term="外挂标签" scheme="https://skytyun.top/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>第五篇</title>
-    <link href="https://skytyun.top/posts/d6d9fc07.html"/>
-    <id>https://skytyun.top/posts/d6d9fc07.html</id>
-    <published>2023-04-01T10:19:03.000Z</published>
-    <updated>2023-04-02T14:00:00.000Z</updated>
-    
-    
-    <summary type="html">记录了我的一些游玩经历</summary>
-    
-    
-    
-    <category term="玩乐" scheme="https://skytyun.top/categories/%E7%8E%A9%E4%B9%90/"/>
-    
-    
-    <category term="Markdown" scheme="https://skytyun.top/tags/Markdown/"/>
-    
-    <category term="外挂标签" scheme="https://skytyun.top/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
-    
-  </entry>
-  
-  <entry>
     <title>第六篇</title>
     <link href="https://skytyun.top/posts/b3d7b7de.html"/>
     <id>https://skytyun.top/posts/b3d7b7de.html</id>
@@ -113,6 +71,27 @@
     
     
     <category term="Java基础" scheme="https://skytyun.top/categories/Java%E5%9F%BA%E7%A1%80/"/>
+    
+    
+    <category term="Markdown" scheme="https://skytyun.top/tags/Markdown/"/>
+    
+    <category term="外挂标签" scheme="https://skytyun.top/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第七篇</title>
+    <link href="https://skytyun.top/posts/61d7c041.html"/>
+    <id>https://skytyun.top/posts/61d7c041.html</id>
+    <published>2023-04-01T10:19:03.000Z</published>
+    <updated>2023-04-02T14:00:00.000Z</updated>
+    
+    
+    <summary type="html">我爱奥利奥饼干碎</summary>
+    
+    
+    
+    <category term="美食" scheme="https://skytyun.top/categories/%E7%BE%8E%E9%A3%9F/"/>
     
     
     <category term="Markdown" scheme="https://skytyun.top/tags/Markdown/"/>
@@ -145,6 +124,48 @@
   </entry>
   
   <entry>
+    <title>第五篇</title>
+    <link href="https://skytyun.top/posts/d6d9fc07.html"/>
+    <id>https://skytyun.top/posts/d6d9fc07.html</id>
+    <published>2023-04-01T10:19:03.000Z</published>
+    <updated>2023-04-02T14:00:00.000Z</updated>
+    
+    
+    <summary type="html">记录了我的一些游玩经历</summary>
+    
+    
+    
+    <category term="玩乐" scheme="https://skytyun.top/categories/%E7%8E%A9%E4%B9%90/"/>
+    
+    
+    <category term="Markdown" scheme="https://skytyun.top/tags/Markdown/"/>
+    
+    <category term="外挂标签" scheme="https://skytyun.top/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo博客搭建教程(三)</title>
+    <link href="https://skytyun.top/posts/b9473940.html"/>
+    <id>https://skytyun.top/posts/b9473940.html</id>
+    <published>2023-04-01T10:19:03.000Z</published>
+    <updated>2023-04-02T14:00:00.000Z</updated>
+    
+    
+    <summary type="html">手把手教你搭建与我一样的个人博客</summary>
+    
+    
+    
+    <category term="博客搭建教程" scheme="https://skytyun.top/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="教程" scheme="https://skytyun.top/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Hexo" scheme="https://skytyun.top/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hexo博客搭建教程(二)</title>
     <link href="https://skytyun.top/posts/e6a2025.html"/>
     <id>https://skytyun.top/posts/e6a2025.html</id>
@@ -173,27 +194,6 @@
     <updated>2023-04-02T14:00:00.000Z</updated>
     
     <content type="html"><![CDATA[<h2 id="前言">前言:</h2><ul><li>这部分教程有参考tzy和Fomalhaut两位大佬的文章</li><li>博客搭建过程遇到任何问题，优先在本页面搜索，检查是否已经有该配置教程。</li><li>遇到问题可以优先在文章评论区留言，注意留言时请填写正确的邮箱以确保能收到站长的回复。<br><img src="https://tuchuang.voooe.cn/images/2023/04/05/v2-41e1b825c51055f39c22b95777bc620b_1440w.jpg" alt="code"><br>简介<br>Hexo是一款基于Node.js的静态博客框架，依赖少易于安装使用，可以方便的生成静态网页托管在GitHub和Heroku上，是搭建博客的首选框架。<br>我的博客地址:<a href="https://skytyun.top">https://skytyun.top</a><br><img src="https://tuchuang.voooe.cn/images/2023/04/02/VeryCapture_20230402220252.jpg" alt="code"></li></ul><h2 id="1-环境与工具准备">1.环境与工具准备</h2><p>本教程主要面对的是Windows用户<br>操作系统：Windows10</p><ul><li>Node</li><li>Git</li><li>Hexo</li><li>文本编辑器(强烈推荐VSCODE)</li><li>GitHub 帐号</li><li>一个域名（强烈推荐买个域名）</li><li>云服务器（可选）</li></ul><h2 id="2-Node的安装">2.Node的安装</h2><ol><li>打开Node官网，下载和自己系统相配的Node的安装程序，否则会出现安装问题。下载地址：<a href="https://nodejs.org/en/download/">https://nodejs.org/en/download/</a><br>我个人的版本是 12.19.0，目前版本已经更新到19.0.0，按照个人经验，可以选个低一些的版本，可以和我的一样，否则后面会出现各种不兼容的问题！我之前就是安装16的，系统无法识别，如果大家遇到问题建议选个低版本的！历史版本下载页面：<a href="https://nodejs.org/en/download/releases/">https://nodejs.org/en/download/releases/</a><br><img src="https://tuchuang.voooe.cn/images/2023/04/05/876780920daf4f8fb319d49ff68f17a3.png" alt="code"></li><li>下载后安装，安装的目录可以使用默认目录【C:/Program Files/nodejs/】，也可以自定义路径。<br>这个环境路径切换坑也很多，如果大家C盘空间足够可以直接装C盘，如果想切换其他盘或者把环境遍历切换到自定义路径也可以，具体教程百度(不过坑比较多就是了)!</li><li>安装完成后，检查是否安装成功。在键盘按下win + R键，输入CMD，然后回车，打开CMD窗口，执行node -v命令，看到版本信息，则说明安装成功。</li><li>修改npm源。npm下载各种模块，默认是从国处服务器下载，速度较慢，建议配置成淘宝镜像。打开CMD窗口，运行如下命令:</li></ol><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm config set registry https://registry.npm.taobao.org</span><br></pre></td></tr></table></figure><h2 id="3-安装Hexo框架">3.安装Hexo框架</h2><ol><li>在Git BASH输入如下命令安装</li></ol><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure><ol start="2"><li>安装完后输入hexo -v验证是否安装成功。<br><img src="https://tuchuang.voooe.cn/images/2023/04/05/f05830f48da44ea98d2a55c3a6663004.png" alt="code"></li></ol><h2 id="4-Github注册与创建仓库">4.Github注册与创建仓库</h2><ol><li>进入Github官网 <a href="https://github.com/">https://github.com/</a><br><img src="https://tuchuang.voooe.cn/images/2023/04/05/627d2c0449341.webp" alt="code"></li><li>点击右上角的 Sign up(注册)<br><img src="https://tuchuang.voooe.cn/images/2023/04/05/627d2c05ee628.png" alt="code"></li><li>填写自己的邮箱、密码、用户名等信息，然后用邮箱验证即可完成。</li><li>注册完成后，点击右上角的+按钮，选择New repository，创建一个&lt;用户名&gt;.github.io的仓库。<br><img src="https://tuchuang.voooe.cn/images/2023/04/05/7a06143d180d47088833a486732dccf5.png" alt="code"></li></ol><ul><li>仓库的格式必须为：&lt;用户名&gt;.github.io (注意：前缀必须为用户名，不要等后面404了再来为什么！！！)</li><li>Description：为描述仓库（选填）</li><li>勾选 Initialize this repository with a README 初始化一个 <a href="http://README.md">README.md</a> 文件</li><li>点击 Creat repository 进行创建<br><img src="https://tuchuang.voooe.cn/images/2023/04/05/0a4dbb10ca69422ca9ccb7493d0f177a.png" alt="code"></li></ul><h2 id="5-Git的安装">5.Git的安装</h2><ol><li>进入官网：<a href="https://git-scm.com/downloads">https://git-scm.com/downloads</a> ，由于官网下载太慢可以通过淘宝的开源镜像下载 网址：<a href="https://registry.npmmirror.com/binary.html?path=git-for-windows/v2.36.1.windows.1/">https://registry.npmmirror.com/binary.html?path=git-for-windows/v2.36.1.windows.1/</a> ，下载版本更具自己的需求选择即可。<br><img src="https://tuchuang.voooe.cn/images/2023/04/05/28a7d7e6ef3f4df080da8d7e8337431b.png" alt="code"></li><li>下载后傻瓜式安装Git即可，安装的目录可以使用默认目录【C:/Program Files/Git】，也可以自定义路径。</li><li>点击电脑左下角开始即可看见Git Bash。<br><img src="https://tuchuang.voooe.cn/images/2023/04/05/627d410ddc940.webp" alt="code"></li></ol><ul><li>Git CMD 是windows 命令行的指令风格</li><li>Git Bash 是linux系统的指令风格（建议使用）</li><li>Git GUI是图形化界面（新手学习不建议使用）</li></ul><ol start="4"><li>常用命令</li></ol><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git config -l  //查看所有配置</span><br><span class="line">git config --system --list //查看系统配置</span><br><span class="line">git config --global --list //查看用户（全局）配置</span><br></pre></td></tr></table></figure><ol start="5"><li>配置用户名和邮箱</li></ol><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git config --global user.name &quot;你的用户名&quot;</span><br><span class="line">git config --global user.email &quot;你的邮箱&quot;</span><br></pre></td></tr></table></figure><ol start="6"><li>通过git config -l 检查是否配置成功，至此git安装及配置全部完成。<br><img src="https://tuchuang.voooe.cn/images/2023/04/05/9115d60b377a47f3a8b79779a287ee65.png" alt="code"></li></ol><h2 id="6-连接至Github">6.连接至Github</h2><ol><li>执行以下命令生成ssh公钥，此公钥用于你的计算机连接Github</li></ol><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &quot;你的邮箱&quot;</span><br></pre></td></tr></table></figure><p>之后打开C盘下用户文件夹下的.ssh的文件夹，会看到 id_rsa.pub<br><img src="https://tuchuang.voooe.cn/images/2023/04/05/627e87126fc59.png" alt="code"><br>用记事本打开上述图片中的公钥（id_rsa.pub），复制里面的内容，然后开始在github中配置ssh密钥<br><img src="https://tuchuang.voooe.cn/images/2023/04/05/627e87156038a.png" alt="code"><br>2. 将 SSH KEY 配置到 GitHub<br>进入github，点击右上角头像 选择settings，进入设置页后选择 SSH and GPG keys，名字随便起，公钥填到Key那一栏。<br><img src="https://tuchuang.voooe.cn/images/2023/04/05/4a69d999fed54ff78a5b84805d3c6a12.png" alt="code"><br><img src="https://tuchuang.voooe.cn/images/2023/04/05/VeryCapture_20230405162632.jpg" alt="code"><br><img src="https://tuchuang.voooe.cn/images/2023/04/05/eaccde8a10eb4cde945a1ed221bb6ace.png" alt="code"><br>3. 测试连接，输入以下命令</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure><p><img src="https://tuchuang.voooe.cn/images/2023/04/05/122bb1ef33074bee84030a525ce1ec56.png" alt="code"><br>出现连接到账户的信息，说明已经大功告成，至此完成了环境准备工作。</p><h2 id="7-初始化-Hexo-项目">7.初始化 Hexo 项目</h2><ol><li>在目标路径（我这里选的路径为【C:/Hexo-Blog】）打开cmd命令窗口，执行hexo init初始化项目。</li></ol><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo init blog-demo(项目名)</span><br></pre></td></tr></table></figure><p><img src="https://tuchuang.voooe.cn/images/2023/04/05/1fbeb52671cf4b1daeca3660d1a31a2f.png" alt="code"><br>2. 进入blog-demo ，输入npm i安装相关依赖。</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">cd blog-demo  //进入blog-demo文件夹</span><br><span class="line">npm i</span><br></pre></td></tr></table></figure><p><img src="https://tuchuang.voooe.cn/images/2023/04/05/150eeb3e61c94b89a1cad2a3079b1f94.png" alt="code"><br>3. 初始化项目后，blog-demo有如下结构：<br><img src="https://tuchuang.voooe.cn/images/2023/04/05/70cf503f27c54d30a31c6b13735023b7.png" alt="code"></p><ul><li>【node_modules】：依赖包</li><li>【scaffolds】：生成文章的一些模板</li><li>【source】：用来存放你的文章</li><li>【themes】：主题</li><li>【.npmignore】：发布时忽略的文件（可忽略）</li><li>【_config.landscape.yml】：主题的配置文件</li><li>【config.yml】：博客的配置文件</li><li>【package.json】：项目名称、描述、版本、运行和开发等信息</li></ul><ol start="4"><li>输入hexo server或者hexo s 启动项目<br><img src="https://tuchuang.voooe.cn/images/2023/04/05/688592f6db1448d29a2f722fc7a0bb0a.png" alt="code"></li><li>打开浏览器，输入地址：<a href="http://localhost:4000/">http://localhost:4000/</a> ，看到下面的效果，说明你的博客已经构建成功了。<br><img src="https://tuchuang.voooe.cn/images/2023/04/05/628e5423df640.webp" alt="code"></li></ol><h2 id="8-将静态博客挂载到-GitHub-Pages">8.将静态博客挂载到 GitHub Pages</h2><ol><li>安装 hexo-deployer-git</li></ol><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure><ol start="2"><li>修改 _config.yml 文件<br>在blog-demo目录下的_config.yml，就是整个Hexo框架的配置文件了。可以在里面修改大部分的配置。详细可参考官方的配置描述。<br>修改最后一行的配置，将repository修改为你自己的github项目地址即可，还有分支要改为main代表主分支（注意缩进）。</li></ol><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  type: git</span><br><span class="line">  repository: git@github.com:Fomalhaut-Blog/Fomalhaut-Blog.github.io.git</span><br><span class="line">  branch: main</span><br></pre></td></tr></table></figure><ol start="3"><li>修改好配置后，运行如下命令，将代码部署到 GitHub（Hexo三连）。</li></ol><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo generate &amp;&amp; hexo deploy  // Git BASH终端</span><br><span class="line">hexo clean; hexo generate; hexo deploy  // VSCODE终端</span><br></pre></td></tr></table></figure><ul><li>hexo clean：删除之前生成的文件，若未生成过静态文件，可忽略此命令。</li><li>hexo generate：生成静态文章，可以用hexo g缩写</li><li>hexo deploy：部署文章，可以用hexo d缩写<br><img src="https://tuchuang.voooe.cn/images/2023/04/05/7ed7b8256d75408aa86e90cd37d0ea53.png" alt="code"></li></ul><span class='p red'>注意：deploy时可能要你输入username和password。</span><p>如果出现Deploy done，则说明部署成功了。<br><img src="https://tuchuang.voooe.cn/images/2023/04/05/85b61e7242214d368539d744b4778a5d.png" alt="code"><br>稍等两分钟，打开浏览器访问：<a href="https://Fomalhaut-Blog.github.io">https://Fomalhaut-Blog.github.io</a> ，这时候我们就可以看到博客内容了。<br><img src="https://tuchuang.voooe.cn/images/2023/04/05/6de50dfe03604b07aa26fb7dd5fe1f99.png" alt="code"></p><h2 id="9-无法连接至Github的解决方案">9.无法连接至Github的解决方案</h2><span class='p red'>注意：当你在与Github进行ssh通信时候出现超时或者是连接被关闭的情况，可以尝试以下解决方案。</span><ol><li>挂代理和换网络（这个就不用多说了）</li><li>Git问题：解决“ssh:connect to host <a href="http://github.com">github.com</a> port 22: Connection timed out”<br>这是评论区的朋友提供的，可以解决SSH连接超时等问题</li><li>开源项目Github520<br>通过修改Host文件的方法解决访问速度慢的问题<br>连接有效性检验：</li></ol><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash">任选其一即可</span></span><br><span class="line">ping github.com</span><br><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure>]]></content>
-    
-    
-    <summary type="html">手把手教你搭建与我一样的个人博客</summary>
-    
-    
-    
-    <category term="博客搭建教程" scheme="https://skytyun.top/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="教程" scheme="https://skytyun.top/tags/%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="Hexo" scheme="https://skytyun.top/tags/Hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo博客搭建教程(三)</title>
-    <link href="https://skytyun.top/posts/b9473940.html"/>
-    <id>https://skytyun.top/posts/b9473940.html</id>
-    <published>2023-04-01T10:19:03.000Z</published>
-    <updated>2023-04-02T14:00:00.000Z</updated>
     
     
     <summary type="html">手把手教你搭建与我一样的个人博客</summary>
