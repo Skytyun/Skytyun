@@ -92,7 +92,16 @@
   </url>
   
   <url>
-    <loc>https://skytyun.top/posts/52c9d35.html</loc>
+    <loc>https://skytyun.top/posts/ebdb339d.html</loc>
+    
+    <lastmod>2023-04-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://skytyun.top/posts/61d7c041.html</loc>
     
     <lastmod>2023-04-02</lastmod>
     
@@ -110,16 +119,7 @@
   </url>
   
   <url>
-    <loc>https://skytyun.top/posts/ebdb339d.html</loc>
-    
-    <lastmod>2023-04-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://skytyun.top/posts/61d7c041.html</loc>
+    <loc>https://skytyun.top/posts/52c9d35.html</loc>
     
     <lastmod>2023-04-02</lastmod>
     
@@ -173,15 +173,6 @@
   </url>
   
   <url>
-    <loc>https://skytyun.top/tags/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://skytyun.top/box/animation/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -191,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://skytyun.top/box/nav/index.html</loc>
+    <loc>https://skytyun.top/tags/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -209,7 +200,7 @@
   </url>
   
   <url>
-    <loc>https://skytyun.top/social/fcircle/index.html</loc>
+    <loc>https://skytyun.top/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -218,7 +209,16 @@
   </url>
   
   <url>
-    <loc>https://skytyun.top/personal/bb/index.html</loc>
+    <loc>https://skytyun.top/box/nav/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://skytyun.top/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -243,6 +243,20 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://skytyun.top/tags/Minecraft/</loc>
+    <lastmod>2023-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://skytyun.top/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/</loc>
+    <lastmod>2023-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://skytyun.top/tags/Markdown/</loc>
@@ -273,20 +287,6 @@
   </url>
   
   <url>
-    <loc>https://skytyun.top/tags/Minecraft/</loc>
-    <lastmod>2023-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://skytyun.top/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/</loc>
-    <lastmod>2023-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://skytyun.top/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2023-04-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -303,7 +303,7 @@
 
   
   <url>
-    <loc>https://skytyun.top/categories/Markdown%E4%B8%8E%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
+    <loc>https://skytyun.top/categories/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2023-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -324,13 +324,6 @@
   </url>
   
   <url>
-    <loc>https://skytyun.top/categories/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2023-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://skytyun.top/categories/%E7%8E%A9%E4%B9%90/</loc>
     <lastmod>2023-04-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -339,6 +332,13 @@
   
   <url>
     <loc>https://skytyun.top/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2023-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://skytyun.top/categories/Markdown%E4%B8%8E%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
     <lastmod>2023-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
