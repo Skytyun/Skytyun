@@ -8930,30 +8930,6 @@ span.card-clock-weather {
   border: 0.215em solid var(--theme-color) !important;
 }
 
-/* 小冰分类分类磁铁黑夜模式适配 */
-.magnet_item {
-  margin-right: 5px !important;
-}
-#catalog_magnet {
-  padding: 18px 18px 0 18px !important;
-}
-@media screen and (max-width: 600px) {
-  .magnet_item {
-    margin-right: 0px !important;
-  }
-}
-[data-theme="dark"] .magnet_link_context {
-  background: #1e1e1e;
-  color: antiquewhite;
-}
-[data-theme="dark"] .magnet_link_context {
-  border-radius: 6px;
-}
-[data-theme="dark"] .magnet_link_context:hover {
-  background: var(--text-bg-hover) !important;
-  color: #f2f2f2;
-  border-radius: 6px;
-}
 
 /* 公告栏、微博 */
 .anno_content:hover,
