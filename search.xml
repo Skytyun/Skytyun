@@ -4,25 +4,25 @@
   
     
     <entry>
-      <title>吃遍中国</title>
-      <link href="/posts/52c9d35.html"/>
-      <url>/posts/52c9d35.html</url>
+      <title>Hexo博客搭建教程(二)</title>
+      <link href="/posts/e6a2025.html"/>
+      <url>/posts/e6a2025.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h2 id="1-Vercel部署与自定义域名">1.Vercel部署与自定义域名</h2><p>Vercel部署与自定义域名</p><h3 id="2-1-Vercel部署">2.1 Vercel部署</h3><p>Vercel简介：vercel 是一个站点托管平台，提供CDN加速，同类的平台有Netlify 和 Github Pages，相比之下，vercel 国内的访问速度更快，并且提供Production环境和development环境，对于项目开发非常的有用的，并且支持持续集成，一次push或者一次PR会自动化构建发布，发布在development环境，都会生成不一样的链接可供预览。<br>但是vercel只是针对个人用户免费，teams是收费的</p><p>首先vercel零配置部署，第二访问速度比github-page好很多，并且构建很快，还是免费使用的，对于部署个人前端项目路、接口服务非常方便<br>vercel类似于github page，但远比github page强大，速度也快得多得多，而且将Github授权给vercel后，可以达到最优雅的发布体验，只需将代码轻轻一推，项目就自动更新部署了。<br>vercel还支持部署serverless接口。那代表着，其不仅仅可以部署静态网站，甚至可以部署动态网站，而这些功能，统统都是免费的<br>vercel还支持自动配置https，不用自己去FreeSSL申请证书，更是省去了一大堆证书的配置<br>vercel目前的部署模板有31种之多<br>使用Vercel部署Hexo项目步骤：</p><p>首先需要一个Vercel账号，这里推荐用GitHub账户关联，这样你就可以在vercel中直接托管你的GitHub库中的项目了，实现开发部署一步到位（网络不流畅可以考虑挂梯子）。<br>Vercel地址:<a href="https://vercel.com/">https://vercel.com/</a></p><ol><li>打开vercel主页<br>使用GitHub账号去关联vercel，后续代码提交到vercel可以自动触发部署<br><img src="https://tuchuang.voooe.cn/images/2023/04/08/01.jpg" alt="code"></li><li>出现授权页面，点击Authorize Vercel。<br><img src="https://tuchuang.voooe.cn/images/2023/04/08/02.png" alt="code"></li><li>当你用你的Github账户关联并绑定手机号登录之后，点击右上角的Add New Project创建新的项目，之后导入选项那里选择Continue with Github，这时候应该能看到你Github账号的仓库，选择你刚刚部署成功的存储静态博客的仓库<username>.github.io右边的Import选项，表示你要导入该仓库。<br><img src="https://tuchuang.voooe.cn/images/2023/04/08/03.png" alt="code"><br><img src="https://tuchuang.voooe.cn/images/2023/04/08/04.png" alt="code"><br><img src="https://tuchuang.voooe.cn/images/2023/04/08/05.jpg" alt="code"></li><li>起一个只能有字母、数字或者或者连字符的项目名称，然后其他默认，点击Deploy，等待一分钟即可部署成功，部署成功后点击Continue to Dashboard跳转到控制面板，下图所示就是控制面板，看到就代表成功部署到了，但是我们现在还不能访问他给出的域，因为GFW最近把Vercel屏蔽了。<br><img src="https://tuchuang.voooe.cn/images/2023/04/08/06.png" alt="code"><br><img src="https://tuchuang.voooe.cn/images/2023/04/08/08.png" alt="code"></li></ol><h3 id="2-2-绑定自定义域名">2.2 绑定自定义域名</h3><p>如果有自己的域名，还可以在 vercel 中进行设置。</p><ol><li>首先进入 blog 的控制台，在Settings -&gt; Domains 添加域名。<br><img src="https://tuchuang.voooe.cn/images/2023/04/08/13.jpg" alt="code"></li><li>接着提示域名需要 DNS 解析到 vercel 提供的记录值<br><img src="https://tuchuang.voooe.cn/images/2023/04/08/10.jpg" alt="code"></li><li>登录所在的域名服务商，根据 Vercel 提供的记录值，添加两条记录<br><img src="https://tuchuang.voooe.cn/images/2023/04/08/11.png" alt="code"><br><img src="https://tuchuang.voooe.cn/images/2023/04/08/11.jpg" alt="code"></li><li>此时回到Vercel，可以看到记录值成功生效。<br><img src="https://tuchuang.voooe.cn/images/2023/04/08/09.jpg" alt="code"><br>此时访问自己的域名，同样也能访问到页面，同时还有可观的访问速度。<br>当主分支有代码被推送，Vercel 将会重新拉取代码，并重新构建部署（构建速度可观）</li></ol><h2 id="2-安装hexo-theme-butterfly主题">2.安装hexo-theme-butterfly主题</h2><p>本教程用的是npm方式安装的 hexo-theme-butterfly，后续魔改时更改的文件都是【C:/Hexo-Blog/blog-demo/node_modules/hexo-theme-butterfly】文件夹中的文件。如果你是git clone克隆方式安装的主题，请在【C:/Hexo-Blog/blog-demo/themes/butterfly】文件夹下修改对应的文件。<br>注意：此方法只支持 Hexo 5.0.0以上版本!<br>在你的博客根目录（我这里路径为【C:/Hexo-Blog/blog-demo】）打开Git BASH命令窗口执行npm i hexo-theme-butterfly</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm i hexo-theme-butterfly</span><br></pre></td></tr></table></figure><p>安装成功后可在【C:/Hexo-Blog/blog-demo/node_modules】文件夹下找到hexo-theme-butterfly文件夹</p><div class="tip "><p>升级方法：在博客根目录下，运行 npm update hexo-theme-butterfly。<br>升级前请将hexo-theme-butterfly文件夹备份，npm更新会直接覆盖成新的包。</p></div><h2 id="3-应用主题">3. 应用主题</h2><ol><li>修改站点配置文件_config.yml，把主题改为butterfly</li></ol><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">theme: butterfly</span><br></pre></td></tr></table></figure><ol start="2"><li>如果你没有pug以及stylus的渲染器，请下载安装，这两个渲染器是Butterfly生成基础页面所需的依赖包：</li></ol><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-renderer-pug hexo-renderer-stylus --save</span><br></pre></td></tr></table></figure><ol start="3"><li>为了减少升级主题后带来的不便，请使用以下方法（建议，可以不做，高度魔改的一般都不会升级主题了，不然魔改的会被覆盖掉）<br>把主题文件夹中的 _config.yml 复制到 Hexo 根目录里（我这里路径为【C:/Hexo-Blog/blog-demo】），同时重新命名为 _config.butterfly.yml。以后只需要在 _config.butterfly.yml进行配置即可生效。Hexo会自动合併主题中的_config.yml和 _config.butterfly.yml里的配置，如果存在同名配置，会使用_config.butterfly.yml的配置，其优先度较高。</li></ol>]]></content>
       
       
       <categories>
           
-          <category> 美食 </category>
+          <category> 博客搭建教程 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 美食世界 </tag>
+            <tag> 教程 </tag>
             
-            <tag> 爱吃 </tag>
+            <tag> Hexo </tag>
             
         </tags>
       
@@ -58,25 +58,25 @@
     
     
     <entry>
-      <title>第六篇</title>
-      <link href="/posts/b3d7b7de.html"/>
-      <url>/posts/b3d7b7de.html</url>
+      <title>吃遍中国</title>
+      <link href="/posts/52c9d35.html"/>
+      <url>/posts/52c9d35.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
       
       <categories>
           
-          <category> Java基础 </category>
+          <category> 美食 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> Markdown </tag>
+            <tag> 美食世界 </tag>
             
-            <tag> 外挂标签 </tag>
+            <tag> 爱吃 </tag>
             
         </tags>
       
@@ -95,6 +95,33 @@
       <categories>
           
           <category> Markdown与外挂标签 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Markdown </tag>
+            
+            <tag> 外挂标签 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第六篇</title>
+      <link href="/posts/b3d7b7de.html"/>
+      <url>/posts/b3d7b7de.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> Java基础 </category>
           
       </categories>
       
@@ -139,52 +166,25 @@
     
     
     <entry>
-      <title>Hexo博客搭建教程(三)</title>
-      <link href="/posts/b9473940.html"/>
-      <url>/posts/b9473940.html</url>
+      <title>第五篇</title>
+      <link href="/posts/d6d9fc07.html"/>
+      <url>/posts/d6d9fc07.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
       
       <categories>
           
-          <category> 博客搭建教程 </category>
+          <category> 玩乐 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 教程 </tag>
+            <tag> Markdown </tag>
             
-            <tag> Hexo </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hexo博客搭建教程(二)</title>
-      <link href="/posts/e6a2025.html"/>
-      <url>/posts/e6a2025.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 博客搭建教程 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 教程 </tag>
-            
-            <tag> Hexo </tag>
+            <tag> 外挂标签 </tag>
             
         </tags>
       
@@ -212,33 +212,6 @@
             <tag> 教程 </tag>
             
             <tag> Hexo </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>第五篇</title>
-      <link href="/posts/d6d9fc07.html"/>
-      <url>/posts/d6d9fc07.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 玩乐 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Markdown </tag>
-            
-            <tag> 外挂标签 </tag>
             
         </tags>
       
