@@ -8490,19 +8490,6 @@ input[type="range"]::-webkit-slider-thumb {
   height: 240px !important;
 } */
 
-/* 分类磁贴 */
-/* .categoryBar-list {
-  max-height: 210px !important;
-}
-@media screen and (max-width: 650px) {
-  .categoryBar-list {
-    max-height: 190px !important;
-  }
-}
-li.categoryBar-list-item {
-  border-radius: 20px !important;
-} */
-
 /* 置顶滚动栏电脑端样式，手机端用默认的 */
 @media screen and (min-width: 600px) {
   .blog-slider {

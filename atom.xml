@@ -40,48 +40,6 @@
   </entry>
   
   <entry>
-    <title>MC</title>
-    <link href="https://skytyun.top/posts/ebdb339d.html"/>
-    <id>https://skytyun.top/posts/ebdb339d.html</id>
-    <published>2023-04-01T10:19:03.000Z</published>
-    <updated>2023-04-02T14:00:00.000Z</updated>
-    
-    
-    <summary type="html">我的世界yyds</summary>
-    
-    
-    
-    <category term="我的世界教程" scheme="https://skytyun.top/categories/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="Minecraft" scheme="https://skytyun.top/tags/Minecraft/"/>
-    
-    <category term="我的世界" scheme="https://skytyun.top/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>第七篇</title>
-    <link href="https://skytyun.top/posts/61d7c041.html"/>
-    <id>https://skytyun.top/posts/61d7c041.html</id>
-    <published>2023-04-01T10:19:03.000Z</published>
-    <updated>2023-04-02T14:00:00.000Z</updated>
-    
-    
-    <summary type="html">我爱奥利奥饼干碎</summary>
-    
-    
-    
-    <category term="美食" scheme="https://skytyun.top/categories/%E7%BE%8E%E9%A3%9F/"/>
-    
-    
-    <category term="Markdown" scheme="https://skytyun.top/tags/Markdown/"/>
-    
-    <category term="外挂标签" scheme="https://skytyun.top/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
-    
-  </entry>
-  
-  <entry>
     <title>吃遍中国</title>
     <link href="https://skytyun.top/posts/52c9d35.html"/>
     <id>https://skytyun.top/posts/52c9d35.html</id>
@@ -103,23 +61,23 @@
   </entry>
   
   <entry>
-    <title>第六篇</title>
-    <link href="https://skytyun.top/posts/b3d7b7de.html"/>
-    <id>https://skytyun.top/posts/b3d7b7de.html</id>
+    <title>MC</title>
+    <link href="https://skytyun.top/posts/ebdb339d.html"/>
+    <id>https://skytyun.top/posts/ebdb339d.html</id>
     <published>2023-04-01T10:19:03.000Z</published>
     <updated>2023-04-02T14:00:00.000Z</updated>
     
     
-    <summary type="html">一些Java的基础教学</summary>
+    <summary type="html">我的世界yyds</summary>
     
     
     
-    <category term="Java基础" scheme="https://skytyun.top/categories/Java%E5%9F%BA%E7%A1%80/"/>
+    <category term="我的世界教程" scheme="https://skytyun.top/categories/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="Markdown" scheme="https://skytyun.top/tags/Markdown/"/>
+    <category term="Minecraft" scheme="https://skytyun.top/tags/Minecraft/"/>
     
-    <category term="外挂标签" scheme="https://skytyun.top/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
+    <category term="我的世界" scheme="https://skytyun.top/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/"/>
     
   </entry>
   
@@ -138,6 +96,27 @@
     
     
     <category term="Markdown与外挂标签" scheme="https://skytyun.top/categories/Markdown%E4%B8%8E%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
+    
+    
+    <category term="Markdown" scheme="https://skytyun.top/tags/Markdown/"/>
+    
+    <category term="外挂标签" scheme="https://skytyun.top/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第六篇</title>
+    <link href="https://skytyun.top/posts/b3d7b7de.html"/>
+    <id>https://skytyun.top/posts/b3d7b7de.html</id>
+    <published>2023-04-01T10:19:03.000Z</published>
+    <updated>2023-04-02T14:00:00.000Z</updated>
+    
+    
+    <summary type="html">一些Java的基础教学</summary>
+    
+    
+    
+    <category term="Java基础" scheme="https://skytyun.top/categories/Java%E5%9F%BA%E7%A1%80/"/>
     
     
     <category term="Markdown" scheme="https://skytyun.top/tags/Markdown/"/>
@@ -170,23 +149,44 @@
   </entry>
   
   <entry>
-    <title>第五篇</title>
+    <title>给butterfly添加侧边栏电子钟</title>
     <link href="https://skytyun.top/posts/d6d9fc07.html"/>
     <id>https://skytyun.top/posts/d6d9fc07.html</id>
     <published>2023-04-01T10:19:03.000Z</published>
     <updated>2023-04-02T14:00:00.000Z</updated>
     
-    
-    <summary type="html">记录了我的一些游玩经历</summary>
-    
+    <content type="html"><![CDATA[<ul><li>效果如下所示</li></ul><div class="tip "><p><a href="https://tuchuang.voooe.cn/images/2023/04/09/630888b65adc7.png">https://tuchuang.voooe.cn/images/2023/04/09/630888b65adc7.png</a></p></div><ol><li>如果有安装店长的插件版侧边栏电子钟（与店长的电子钟冲突），在博客根目录[Blogroot]下打开终端，运行以下指令</li></ol><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash">卸载原版电子钟</span></span><br><span class="line">npm uninstall hexo-butterfly-clock</span><br></pre></td></tr></table></figure><ol start="2"><li>安装插件,在博客根目录[Blogroot]下打开终端，运行以下指令：</li></ol><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-butterfly-clock-anzhiyu --save</span><br></pre></td></tr></table></figure><ol start="3"><li>添加配置信息，以下为写法示例在站点配置文件_config.yml或者主题配置文件_config.butterfly.yml中添加</li></ol><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash">electric_clock</span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">see https://anzhiy.cn/posts/fc18.html</span></span><br><span class="line">electric_clock:</span><br><span class="line">  enable: true # 开关</span><br><span class="line">  priority: 5 #过滤器优先权</span><br><span class="line">  enable_page: all # 应用页面</span><br><span class="line">  exclude:</span><br><span class="line"><span class="meta prompt_">  # </span><span class="language-bash">- /posts/</span></span><br><span class="line"><span class="meta prompt_">  # </span><span class="language-bash">- /about/</span></span><br><span class="line">  layout: # 挂载容器类型</span><br><span class="line">    type: class</span><br><span class="line">    name: sticky_layout</span><br><span class="line">    index: 0</span><br><span class="line">  loading: https://cdn.cbd.int/hexo-butterfly-clock-anzhiyu/lib/loading.gif #加载动画自定义</span><br><span class="line">  clock_css: https://cdn.cbd.int/hexo-butterfly-clock-anzhiyu/lib/clock.min.css</span><br><span class="line">  clock_js: https://cdn.cbd.int/hexo-butterfly-clock-anzhiyu/lib/clock.min.js</span><br><span class="line">  ip_api: https://widget.qweather.net/simple/static/js/he-simple-common.js?v=2.0</span><br><span class="line">  qweather_key: # 和风天气key</span><br><span class="line">  gaud_map_key: # 高得地图web服务key</span><br><span class="line">  default_rectangle: false # 开启后将一直显示rectangle位置的天气，否则将获取访问者的地理位置与天气</span><br><span class="line">  rectangle: 112.982279,28.19409 # 获取访问者位置失败时会显示该位置的天气，同时该位置为开启default_rectangle后的位置</span><br></pre></td></tr></table></figure><p>其中qweather_key 和gaud_map_key 最好自己去申请对应的 api key，默认使用我自己的，可能会被限制，不保证可靠性</p><details class="folding-tag" blue><summary> 点击查看教程 </summary>              <div class='content'>              <p>qweather_key申请地址: <a href="https://id.qweather.com/#/login">https://id.qweather.com/#/login</a></p><ol><li>登录后进入控制台<br><img src="https://tuchuang.voooe.cn/images/2023/04/09/63089a777772f.webp" alt=""></li><li>创建应用<br><img src="https://tuchuang.voooe.cn/images/2023/04/09/63089a7772a30.webp" alt=""></li><li>填写应用名称和 key 名称随意</li><li>选择 WebApi<br><img src="https://tuchuang.voooe.cn/images/2023/04/09/63089a776a3fd.webp" alt=""></li><li>复制 key<br><img src="https://tuchuang.voooe.cn/images/2023/04/09/63089b848e8a7.webp" alt=""><br>gaud_map_key 申请地址: <a href="https://lbs.amap.com/">https://lbs.amap.com/</a></li><li>登录后进入控制台</li><li>创建应用，名称随意，类型选其他<br><img src="https://tuchuang.voooe.cn/images/2023/04/09/6308a1101d83c.webp" alt=""></li><li>点击添加, key名称随意，服务平台选择Web服务,点击提交<br><img src="https://tuchuang.voooe.cn/images/2023/04/09/6308a11023c69.webp" alt=""></li><li>复制 key<br><img src="https://tuchuang.voooe.cn/images/2023/04/09/6308a11018a74.webp" alt=""></li></ol>              </div>            </details><ol start="4"><li>参数释义<br>| 参数              | 备选值/类型 | 释义 |<br>| --------          | --------   | ---- |<br>|priority          | number   |【可选】过滤器优先级，数值越小，执行越早，默认为 10，选填<br>|enable            |true/false |【必选】控制开关<br>|enable_page      |path/all   |【可选】填写想要应用的页面的相对路径（即路由地址）,如根目录就填’/‘,分类页面就填’/categories/‘。若要应用于所有页面，就填’all’，默认为 all<br>|exclude          |path        |【可选】填写想要屏蔽的页面，可以多个。写法见示例。原理是将屏蔽项的内容逐个放到当前路径去匹配，若当前路径包含任一屏蔽项，则不会挂载。<br>|layout.type      |id/class   |【可选】挂载容器类型，填写 id 或 class，不填则默认为 id<br>|<a href="http://layout.name">layout.name</a>      |text       |【必选】挂载容器名称<br>|layout.index      |0和正整数    |【可选】前提是 layout.type 为 class，因为同一页面可能有多个 class，此项用来确认究竟排在第几个顺位<br>|loading          |URL         |【可选】电子钟加载动画的图片<br>|clock_css        |URL         |【可选】电子钟样式 CDN 资源<br>|clock_js          |URL         |【可选】电子钟执行脚本 CDN 资源<br>|ip_api            |URL         |【可选】获取时钟 IP 的 API<br>|qweather_key      |text       |【可选】和风天气 key<br>|gaud_map_key      |text       |【可选】高得地图 web 服务 key<br>|default_rectangle|text       |【可选】开启后将一直显示 rectangle 位置的天气，否则将获取访问者的地理位置与天气<br>|rectangle        |text       |【可选】获取访问者位置失败时会显示该位置的天气，同时该位置为开启 default_rectangle 后的位置<br>教程原贴:<a href="https://anzhiy.cn/(%E5%AE%89%E7%9F%A5%E9%B1%BC)">https://anzhiy.cn/(安知鱼)</a></li></ol>]]></content>
     
     
-    <category term="玩乐" scheme="https://skytyun.top/categories/%E7%8E%A9%E4%B9%90/"/>
+    <summary type="html">快来给你的博客安装一个炫酷的电子钟吧</summary>
     
     
-    <category term="Markdown" scheme="https://skytyun.top/tags/Markdown/"/>
     
-    <category term="外挂标签" scheme="https://skytyun.top/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
+    <category term="博客搭建教程" scheme="https://skytyun.top/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="挂件" scheme="https://skytyun.top/tags/%E6%8C%82%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>APP高清图标的下载</title>
+    <link href="https://skytyun.top/posts/61d7c041.html"/>
+    <id>https://skytyun.top/posts/61d7c041.html</id>
+    <published>2023-04-01T10:19:03.000Z</published>
+    <updated>2023-04-02T14:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>一个八年前的老项目：<a href="https://github.com/bolasblack/icon-finder%E8%87%B3%E4%BB%8A%E4%BB%8D%E5%8F%AF%E4%BD%BF%E7%94%A8%EF%BC%8C%E6%AF%95%E7%AB%9F%E6%98%AF%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%87%AA%E5%B7%B1%E9%83%A8%E7%BD%B2%E5%88%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8A%EF%BC%8C%E9%80%9F%E5%BA%A6%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%9B%B4%E5%BF%AB%E4%B8%80%E7%82%B9%EF%BC%8C">https://github.com/bolasblack/icon-finder至今仍可使用，毕竟是开源项目，可以自己部署到服务器上，速度可能会更快一点，</a><br>开发者原帖：<a href="http://plafer.info/icon-finder/#!/">http://plafer.info/icon-finder/#!/</a></p><h2 id="1-网站预览">1.网站预览</h2><p>直接右键单击复制图片即可粘贴到PPT或者keynote中。<br><img src="https://tuchuang.voooe.cn/images/2023/04/09/VeryCapture_20230409144647.jpg" alt=""></p>]]></content>
+    
+    
+    <summary type="html">如何下载APP的高清图标？调研、PPT竞品分析等应用图标下载工具</summary>
+    
+    
+    
+    <category term="应用教程" scheme="https://skytyun.top/categories/%E5%BA%94%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="实用教程" scheme="https://skytyun.top/tags/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
