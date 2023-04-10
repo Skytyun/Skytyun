@@ -98,7 +98,7 @@ function getDistance(e1, n1, e2, n2) {
 }
 
 function showWelcome() {
-  let dist = getDistance(113.34499552, 23.15537143, ipLoacation.result.location.lng, ipLoacation.result.location.lat); //这里换成自己的经纬度
+  let dist = getDistance(113.10952, 22.62924, ipLoacation.result.location.lng, ipLoacation.result.location.lat); //这里换成自己的经纬度
   let pos = ipLoacation.result.ad_info.nation;
   let ip;
   let posdesc;
@@ -298,7 +298,7 @@ document.addEventListener('pjax:complete', showWelcome);
 //----------------------------------------------------------------
 
 /* 微博热搜 start */
-document.addEventListener('pjax:complete', getWeibo);
+/*document.addEventListener('pjax:complete', getWeibo);
 document.addEventListener('DOMContentLoaded', getWeibo);
 
 function getWeibo() {
@@ -327,7 +327,7 @@ function getWeibo() {
     console.log(error);
   });
 }
-
+*/
 /* 微博热搜 end */
 
 //----------------------------------------------------------------
