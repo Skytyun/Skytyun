@@ -3177,7 +3177,7 @@ if (localStorage.getItem("blogbg") != undefined) {
     --default-bg: url(https://tuchuang.voooe.cn/images/2023/04/08/default_cover_7.webp);
     --darkmode-bg:url(https://tuchuang.voooe.cn/images/2023/04/01/_202303292330101.jpg);
     --mobileday-bg: url(https://tuchuang.voooe.cn/images/2023/04/02/_202304021735511.jpg);
-    --mobilenight-bg: url(https://tuchuang.voooe.cn/images/2023/04/03/_202304031452091.jpg);
+    --mobilenight-bg: url(https://tuchuang.voooe.cn/images/2023/04/02/_20230402174418.jpg);
   }`;
 }
 // 切换背景主函数
