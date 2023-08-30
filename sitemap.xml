@@ -290,14 +290,14 @@
 
   
   <url>
-    <loc>https://skytyun.top/tags/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://skytyun.top/tags/%E6%8C%82%E4%BB%B6/</loc>
     <lastmod>2023-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://skytyun.top/tags/Hexo/</loc>
+    <loc>https://skytyun.top/tags/%E5%8D%9A%E5%AE%A2%E7%BE%8E%E5%8C%96/</loc>
     <lastmod>2023-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -318,14 +318,21 @@
   </url>
   
   <url>
-    <loc>https://skytyun.top/tags/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://skytyun.top/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2023-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://skytyun.top/tags/Markdown/</loc>
+    <loc>https://skytyun.top/tags/Hexo/</loc>
+    <lastmod>2023-08-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://skytyun.top/tags/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2023-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -339,14 +346,7 @@
   </url>
   
   <url>
-    <loc>https://skytyun.top/tags/%E6%8C%82%E4%BB%B6/</loc>
-    <lastmod>2023-08-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://skytyun.top/tags/%E5%8D%9A%E5%AE%A2%E7%BE%8E%E5%8C%96/</loc>
+    <loc>https://skytyun.top/tags/Markdown/</loc>
     <lastmod>2023-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -355,7 +355,7 @@
 
   
   <url>
-    <loc>https://skytyun.top/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://skytyun.top/categories/%E5%8D%9A%E5%AE%A2%E7%BE%8E%E5%8C%96%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2023-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -363,6 +363,13 @@
   
   <url>
     <loc>https://skytyun.top/categories/JavaScript%E5%9F%BA%E7%A1%80%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2023-08-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://skytyun.top/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2023-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -377,13 +384,6 @@
   
   <url>
     <loc>https://skytyun.top/categories/Markdown%E4%B8%8E%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
-    <lastmod>2023-08-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://skytyun.top/categories/%E5%8D%9A%E5%AE%A2%E7%BE%8E%E5%8C%96%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2023-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
