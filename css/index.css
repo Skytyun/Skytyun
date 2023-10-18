@@ -7971,7 +7971,7 @@ input#pic-link {
 
 /* heo 加载动画头像 */
 .loading-img {
-  background: url(https://tuchuang.voooe.cn/images/2023/04/01/aebji-0co02-1.th.webp)
+  background: url(https://tuchuang.voooe.cn/images/2023/01/02/avatar.webp)
     no-repeat center center;
   background-size: cover;
 }
@@ -8490,6 +8490,19 @@ input[type="range"]::-webkit-slider-thumb {
   height: 240px !important;
 } */
 
+/* 分类磁贴 */
+/* .categoryBar-list {
+  max-height: 210px !important;
+}
+@media screen and (max-width: 650px) {
+  .categoryBar-list {
+    max-height: 190px !important;
+  }
+}
+li.categoryBar-list-item {
+  border-radius: 20px !important;
+} */
+
 /* 置顶滚动栏电脑端样式，手机端用默认的 */
 @media screen and (min-width: 600px) {
   .blog-slider {
@@ -8917,6 +8930,30 @@ span.card-clock-weather {
   border: 0.215em solid var(--theme-color) !important;
 }
 
+/* 小冰分类分类磁铁黑夜模式适配 */
+.magnet_item {
+  margin-right: 5px !important;
+}
+#catalog_magnet {
+  padding: 18px 18px 0 18px !important;
+}
+@media screen and (max-width: 600px) {
+  .magnet_item {
+    margin-right: 0px !important;
+  }
+}
+[data-theme="dark"] .magnet_link_context {
+  background: #1e1e1e;
+  color: antiquewhite;
+}
+[data-theme="dark"] .magnet_link_context {
+  border-radius: 6px;
+}
+[data-theme="dark"] .magnet_link_context:hover {
+  background: var(--text-bg-hover) !important;
+  color: #f2f2f2;
+  border-radius: 6px;
+}
 
 /* 公告栏、微博 */
 .anno_content:hover,
@@ -9675,9 +9712,6 @@ hr:before {
   scale: 1.05;
   transition: all 0.3s ease-in-out;
 }
-
-
-
 
 .search-dialog {
   position: fixed;
