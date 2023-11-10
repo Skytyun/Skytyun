@@ -7978,14 +7978,14 @@ button#go-up:hover #percent {
 
 /* 个人信息卡片背景图 */
 [data-theme="light"] #aside-content>.card-widget.card-info {
-  background-image: url(https://tuchuang.voooe.cn/images/2023/11/10/C0C40E5FC07E195262FE4F865E46D0FB.jpg);
+  background-image: url(https://sourcebucket.s3.bitiful.net/img/springBg.png);
   background-repeat: no-repeat;
   background-attachment: inherit;
   background-size: 100%;
 }
 
 [data-theme="dark"] #aside-content>.card-widget.card-info {
-  background-image: url(https://tuchuang.voooe.cn/images/2023/11/10/C0C40E5FC07E195262FE4F865E46D0FB.jpg);
+  background-image: url(https://sourcebucket.s3.bitiful.net/img/springBg.png);
   background-repeat: no-repeat;
   background-attachment: inherit;
   background-size: 100%;
