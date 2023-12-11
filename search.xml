@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>如何将代码打包上传到Github仓库？</title>
+      <link href="/posts/67fe9029.html"/>
+      <url>/posts/67fe9029.html</url>
+      
+        <content type="html"><![CDATA[<h1>如何将代码打包上传到Github仓库？</h1><h3 id="前提：需要安装Git，使用Git的Git-Bash功能实现，不懂的可以移步度娘或者Bilibili查找教程">前提：需要安装Git，使用Git的Git Bash功能实现，不懂的可以移步度娘或者Bilibili查找教程</h3><h2 id="1-首先需要创建Github仓库">1.首先需要创建Github仓库</h2><p><img src="" alt="https://pic.imgdb.cn/item/6574a164c458853aef015217.jpg"></p><p><img src="" alt="https://pic.imgdb.cn/item/6574a164c458853aef01512c.jpg"></p><p><img src="" alt="https://pic.imgdb.cn/item/6574a164c458853aef0152b1.jpg"></p><h2 id="2-打开需要上传的代码文件夹根目录，点击Git-Bash-Here">2.打开需要上传的代码文件夹根目录，点击Git Bash Here</h2><p><img src="" alt="https://pic.imgdb.cn/item/657437f6c458853aef7cdc27.jpg"></p><h2 id="3-在Git-Bash的界面输入以下指令">3.在Git Bash的界面输入以下指令</h2><p><code>git init</code>: 初始化一个新的 Git 仓库</p><p><code>git add .</code>: 将当前目录下的所有文件添加到 Git 的暂存区</p><p><code>git commit -m &quot;提交文件&quot;</code>: 提交并创建一个新的提交记录，其中包含了你的更改信息</p><p><code>git remote rm origin</code>: 删除名为 “origin” 的远程仓库</p><p><code>git remote add origin git@github.com:gain-wyj/wyj_first.git</code>: 添加一个名为 “origin” 的远程仓库，其地址为 <code>git@github.com:gain-wyj/wyj_first.git（这个github的地址更改为自己的地址）</code>请确保该地址正确且可访问，更改方式为自己仓库中上方步骤1中图三的SSH地址</p><p><code>git push -u origin master</code>: 将本地的代码推送到名为 “origin” 的远程仓库的 “master” 分支上</p><p>这样代码就全部推送到Github仓库里啦！</p><p>注意：这里的默认推送分支为master，可以将此仓库的默认分支将main更改为master，修改方法如下</p><p><img src="" alt="https://pic.imgdb.cn/item/6574ad60c458853aef2d6cd7.jpg"></p><p>master分支代码已推送成功：</p><p><img src="" alt="https://pic.imgdb.cn/item/6574ae18c458853aef3055c1.jpg"></p><p>大家也可以去度娘或者其它地方寻找将分支改为main或者合并分支的方法，我的办法可能不是最优解，但是是我摸索出来最简单易懂的方法。</p><p>最后，感谢大家的阅读！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 应用教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> GitHub </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>JavaScript基础笔记(1)</title>
       <link href="/posts/e8042501.html"/>
       <url>/posts/e8042501.html</url>
@@ -47,9 +72,9 @@
       
         <tags>
             
-            <tag> 博客美化 </tag>
-            
             <tag> 挂件 </tag>
+            
+            <tag> 博客美化 </tag>
             
         </tags>
       
@@ -126,9 +151,9 @@
       
         <tags>
             
-            <tag> 博客美化 </tag>
-            
             <tag> 挂件 </tag>
+            
+            <tag> 博客美化 </tag>
             
         </tags>
       

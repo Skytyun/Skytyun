@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://skytyun.top/posts/67fe9029.html</loc>
+    
+    <lastmod>2023-12-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://skytyun.top/life/music/index.html</loc>
+    
+    <lastmod>2023-12-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://skytyun.top/life/movies/index.html</loc>
+    
+    <lastmod>2023-12-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://skytyun.top/site/time/index.html</loc>
     
     <lastmod>2023-12-07</lastmod>
@@ -21,24 +48,6 @@
   
   <url>
     <loc>https://skytyun.top/box/gallery/index.html</loc>
-    
-    <lastmod>2023-11-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://skytyun.top/life/movies/index.html</loc>
-    
-    <lastmod>2023-11-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://skytyun.top/life/music/index.html</loc>
     
     <lastmod>2023-11-11</lastmod>
     
@@ -290,28 +299,7 @@
 
   
   <url>
-    <loc>https://skytyun.top/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2023-12-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://skytyun.top/tags/Hexo/</loc>
-    <lastmod>2023-12-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://skytyun.top/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2023-12-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://skytyun.top/tags/JavaScript/</loc>
+    <loc>https://skytyun.top/tags/GitHub/</loc>
     <lastmod>2023-12-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -332,7 +320,35 @@
   </url>
   
   <url>
-    <loc>https://skytyun.top/tags/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://skytyun.top/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2023-12-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://skytyun.top/tags/JavaScript/</loc>
+    <lastmod>2023-12-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://skytyun.top/tags/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2023-12-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://skytyun.top/tags/Hexo/</loc>
+    <lastmod>2023-12-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://skytyun.top/tags/%E6%8C%82%E4%BB%B6/</loc>
     <lastmod>2023-12-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -346,7 +362,7 @@
   </url>
   
   <url>
-    <loc>https://skytyun.top/tags/%E6%8C%82%E4%BB%B6/</loc>
+    <loc>https://skytyun.top/tags/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2023-12-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -355,14 +371,7 @@
 
   
   <url>
-    <loc>https://skytyun.top/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2023-12-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://skytyun.top/categories/JavaScript%E5%9F%BA%E7%A1%80%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://skytyun.top/categories/%E5%BA%94%E7%94%A8%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2023-12-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -376,7 +385,14 @@
   </url>
   
   <url>
-    <loc>https://skytyun.top/categories/%E5%BA%94%E7%94%A8%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://skytyun.top/categories/JavaScript%E5%9F%BA%E7%A1%80%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2023-12-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://skytyun.top/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2023-12-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
