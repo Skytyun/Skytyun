@@ -3138,9 +3138,9 @@ if (localStorage.getItem("blogbg") != undefined) {
 } else {
   document.getElementById("defineBg").innerText = `:root{
     --default-bg: url(https://pic.imgdb.cn/item/652fe677c458853aefdb05e9.jpg);
-    --darkmode-bg:url(https://pic.imgdb.cn/item/65300c6cc458853aef6c2e8d.webp);
-    --mobileday-bg: url(https://pic.imgdb.cn/item/65773ff7c458853aefa8cc0c.jpg);
-    --mobilenight-bg: url(https://pic.imgdb.cn/item/65773fcac458853aefa840a6.jpg);
+    --darkmode-bg:url(https://pic.imgdb.cn/item/66ae6881d9c307b7e9514c44.jpg);
+    --mobileday-bg: url(https://pic.imgdb.cn/item/66ae643cd9c307b7e94aea55.jpg);
+    --mobilenight-bg: url(https://pic.imgdb.cn/item/66ae643cd9c307b7e94ae9f0.jpg);
   }`;
 }
 // 切换背景主函数
