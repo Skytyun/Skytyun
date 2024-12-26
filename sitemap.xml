@@ -263,7 +263,7 @@
   </url>
   
   <url>
-    <loc>https://skytyun.top/social/fcircle/index.html</loc>
+    <loc>https://skytyun.top/site/census/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -272,7 +272,7 @@
   </url>
   
   <url>
-    <loc>https://skytyun.top/site/census/index.html</loc>
+    <loc>https://skytyun.top/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -334,6 +334,13 @@
   </url>
   
   <url>
+    <loc>https://skytyun.top/tags/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://skytyun.top/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -356,13 +363,6 @@
   
   <url>
     <loc>https://skytyun.top/tags/%E5%8D%9A%E5%AE%A2%E7%BE%8E%E5%8C%96/</loc>
-    <lastmod>2024-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://skytyun.top/tags/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
